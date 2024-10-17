@@ -1,10 +1,9 @@
-﻿namespace EmploeeManager
+﻿namespace EmploeeManager;
+
+internal class Program
 {
-    internal class Program
+    static void Main()
     {
-        static void Main()
-        {
-            
-        }
+
     }
 }
